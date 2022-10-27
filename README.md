@@ -5,5 +5,6 @@ https://yndx-test.ru/aci89e7kdo1g6q2v/
 
 
 [![Promo video](ok-cat.gif)](https://youtube.com/shorts/TS3dzki0E7Q?feature=share "Promo video")
+
 Ссылка на видеодемонстрацию по клику на гифку
 
